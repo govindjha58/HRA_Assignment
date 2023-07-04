@@ -1,0 +1,47 @@
+#text {
+
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+
+#card3-container {
+    display: flex;
+    position: relative;
+    flex-direction: column;
+}
+
+
+.card-title {
+    display: flex;
+    position: relative;
+    font-size: 34px;
+    font-weight: 500;
+    justify-content: center;
+    width: 100%;
+    background-color: #FFFFFF;
+    text-align: center;
+}
+
+.card-Components {
+    display: flex;
+    flex-direction: row;
+}
+
+#card3-content {
+    background-color: #FFFFFF;
+    align-content: normal;
+    position: relative;
+    width: 50%;
+    overflow: hidden;
+}
+
+#card3-content img {
+    max-width: 100%;
+    max-height: 100%
+}

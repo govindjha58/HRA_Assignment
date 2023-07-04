@@ -1,0 +1,13 @@
+#btn {
+    width: 170px;
+    height: 46px;
+    display: flex;
+    justify-content: center;
+    color: #FFFFFF;
+    align-items: center;
+    border-radius: 16px;
+    position: relative;
+    background-color:  #1963C6;
+    border-radius: 28px;
+    border-color: #1963C6;
+  }

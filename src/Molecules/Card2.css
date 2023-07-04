@@ -1,0 +1,31 @@
+#card2-container {
+    display: flex;
+    background-color: #E6F6FF;
+    height: fit-content;
+}
+
+#card-info-content{
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    margin-left: 20px;
+}
+
+#span-text{
+    font-size: 20px;
+}
+
+#card2-content{
+    background-color: #FFFFFF;
+    align-content: normal;
+    position: relative;
+    width: 50rem;
+    border-radius: 16px;
+    overflow: hidden
+}
+
+#card2-content img {
+    flex-shrink: 0;
+    max-width: 100%;
+    max-height: 100%
+}
