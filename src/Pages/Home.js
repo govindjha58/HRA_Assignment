@@ -1,16 +1,16 @@
 import React from 'react'
 
-import Card2 from '../Molecules/Card2'
-import Card3 from '../Molecules/Card3'
-import AskMeCard from '../Molecules/AskMeCard'
+import CardOne from '../Molecules/CardOne'
+import CardTwo from '../Molecules/CardTwo'
+import CardThree from '../Molecules/CardThree'
 
 export default function Home() {
   return (
 <div>
     
-      <Card2/>
-      <Card3/>
-      <AskMeCard/>
+      <CardOne/>
+      <CardTwo/>
+      <CardThree/>
 
     </div>
   )

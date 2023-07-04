@@ -1,8 +1,8 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Button from '../Atoms/Button';
-import './Card2.css'
-export default function Card2() {
+import './CardOne.css'
+export default function CardOne() {
     return (
         <div className="card-container" id="card2-container">
 

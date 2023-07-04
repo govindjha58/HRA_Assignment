@@ -1,7 +1,7 @@
 import React from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css';
-import './Card3.css'
-export default function Card3() {
+import './CardTwo.css'
+export default function CardTwo() {
   return (
     <div className="card-container" id='card3-container'>
 
